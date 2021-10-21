@@ -1,3 +1,3 @@
-module github.com/silly-goose-software/hello-world
+module github.com/YannickMeeus/hello-world
 
 go 1.17
